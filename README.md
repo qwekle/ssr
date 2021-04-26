@@ -12,7 +12,7 @@ You will also see any lint errors in the console.
 
 Builds the app for production 
 
-## To view, go to
+## For view, go to
 
 https://ssr-zeta.vercel.app/
 
