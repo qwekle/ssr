@@ -1,11 +1,5 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -17,4 +11,19 @@ You will also see any lint errors in the console.
 ### `npm build`
 
 Builds the app for production 
+
+## To view, go to
+
+https://ssr-zeta.vercel.app/
+
+# About
+Это тестовая работа с использованием: next.js, react / redux, type-script.
+
+Список серверов с возможностью выбора и редактирования каждого, по нажатию на кнопку "Изменить"\
+{ \
+customer_id: 'id', \
+server_name: 'server_name', // Редактируемое поле \
+server_type: 'server_type' // Редактируемое поле \
+}
+
 
