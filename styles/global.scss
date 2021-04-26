@@ -39,7 +39,8 @@ button{
         li{
             padding: 7px 10px;
             transition: background-color .3s;
-            &:hover a{
+            cursor: pointer;
+            &:hover{
                 color: gray;
             }
         }
